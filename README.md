@@ -1,7 +1,9 @@
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="500"/>
-</div>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&size=30&pause=2000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello+world!)](https://git.io/typing-svg)
+
+
+
 
 # Hi, I'm *Izabella* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  
