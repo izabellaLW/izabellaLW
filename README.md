@@ -15,6 +15,18 @@
  [![Twitter Badge](https://img.shields.io/badge/Twitter-50ABF1?logo=Twitter&logoColor=white&link=twitter.com%2Falphalaker)](https://twitter.com/alphalaker)
  
 </details>
+
+
+<details>
+<summary>Languages</summary>
+ <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40"       height="40"/>&nbsp;  
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://swimburger.net/media/ppnn3pcl/azure.png" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+ 
+   
+ </details>
  
 <div id="header" align="right">
 
