@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&size=30&pause=2000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello+world!)](https://git.io/typing-svg)
 
 
-
+<div id="header" align="left">
 
 # Hi, I'm *Izabella* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  
@@ -16,7 +16,7 @@
  
 </details>
  
-
+<div id="header" align="right">
 
 _What I'm currently listening to:_
 
