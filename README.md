@@ -31,7 +31,7 @@
 
 ## Projects
 - <img src="https://logos-world.net/wp-content/uploads/2020/07/Accenture-Logo.png" title="Accenture" alt="Accenture" width="20" height="10"/>&nbsp; [Accenture Women in Tech Bootcamp: SuperSavvy](https://github.com/Liah-Yun/T6-Accenture-Women-in-Tech-Bootcamp)
-- <img src="https://safetyculture.com/wp-content/media/2022/03/sc-icon-grey.png" title="SafetyCulture" alt="SafetyCulture" width="20" height="20"/>&nbsp; SafetyCulture A{i} Accelerate Program: SafetyCulture Smart Actions _(repositories coming soon)_
+- <img src="https://safetyculture.com/wp-content/media/2022/03/sc-icon-grey.png" title="SafetyCulture" alt="SafetyCulture" width="20" height="20"/>&nbsp; SafetyCulture A{i} Accelerate Program: SafetyCulture Smart Actions
 - <img src="https://staging.govhack.org/wp-content/uploads/2022/06/cropped-gh-favicon.png" title="GovHack" alt="GovHack" width="20" height="20"/>&nbsp; [GovHack 2023: Ctrl+Alt+Elite](https://github.com/orgs/ctrl-alt-elit3/repositories "Ctrl+Alt+Elite Repositories")
  
 
