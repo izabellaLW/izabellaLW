@@ -6,7 +6,7 @@
   
 # Hi, I'm *Izabella* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<img src="https://liquipedia.net/commons/images/thumb/d/db/Macquarie_University_allmode.png/600px-Macquarie_University_allmode.png" width="20" height="20"/>&nbsp; I am third-year undergrad student, currently studying Bachelor of Commerce (Marketing Management) and Bachelor of Information Technology (Cybersecurity).
+<img src="https://liquipedia.net/commons/images/thumb/d/db/Macquarie_University_allmode.png/600px-Macquarie_University_allmode.png" width="20" height="20"/>&nbsp; I am fourth-year undergrad student, currently studying Bachelor of Commerce (Marketing Management) and Bachelor of Information Technology (Cybersecurity).
 
 <details>
 <summary>Where to find me?</summary>
